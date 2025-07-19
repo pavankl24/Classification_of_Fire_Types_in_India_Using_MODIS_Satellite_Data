@@ -1,0 +1,1 @@
+# Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data
